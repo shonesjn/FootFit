@@ -1,0 +1,30 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Secrets
+.env
+.env.*
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Large raw research data
+data/raw/
+StepUP-P150/
+py/
+*.npz
+
+# Generated temporary files
+.pytest_cache/
+

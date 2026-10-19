@@ -1,0 +1,1 @@
+Larracy, R., Phinyomark, A., Salehi, A., MacDonald, E., Kazemi, S., Shafiul Bashar, S., Tabor, A., Scheme, E. (2025). StepUP-P150: A Dataset of High-Resolution Plantar Pressure Measurements with Varying Footwear Types and Walking Speeds for Gait Analysis and Recognition. Federated Research Data Repository. https://doi.org/10.20383/103.01285
